@@ -1,0 +1,2 @@
+# BinaryScriptableObject
+UnityのScriptableObjectをDLL化しても使えるようにするための汎用シリアライズライブラリ
