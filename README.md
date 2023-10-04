@@ -64,9 +64,16 @@ setting.SaveBinary();//LoadSettingAssetAtFilePath内でバイナリファイル�
 下記にサンプルプログラムを含む、UnityプロジェクトをUPしました。  
 https://github.com/YumaEdwards/BSOSampleProject  
 
-上記、レポジトリをクローンして、動作確認とプログラムの内容をご確認ください。
+上記、レポジトリをクローンして、動作確認とプログラムの内容をご確認ください。  
 
 ## ■バイナリデータ仕様
 下記に本ライブラリで取り扱うバイナリデータに関する、データ仕様を公開しています。  
 自作の読み書きライブラリを作ったり、本ライブラリを改造する場合などにお使いください。  
 https://docs.google.com/document/d/1DTKZdYGk1vbtR4gtiW4LWnM23JbYm-ihBg0WRjV8g4I/edit?usp=sharing
+
+## ■ライセンスについて
+ライセンスは「MIT License」となります。  
+本ライブラリを使用したツールやゲームに関して、  
+「著作権表示」と「MIT ライセンスの全文(またはリンク)」を含めていただければ、他は特に制限のないライセンスです。  
+ライセンスの本文はGitHubの右上のライセンスリンクから飛ぶか、下記へアクセスください。  
+https://github.com/YumaEdwards/BinaryScriptableObject/blob/develop/LICENSE
