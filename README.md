@@ -76,8 +76,6 @@ https://docs.google.com/document/d/1DTKZdYGk1vbtR4gtiW4LWnM23JbYm-ihBg0WRjV8g4I/
 
 ## ■ライセンスについて
 ライセンスは「MIT License」となります。  
-本ライブラリを使用したツールやゲームに関して、  
-「著作権表示」と「MIT ライセンスの全文(またはリンク)」を含めていただければ、  
-他は特に制限のないライセンスです。  
+本ライブラリを使用したツールやゲームに関して、「著作権表示」と「MIT ライセンスの全文(またはリンク)」を含めていただければ、他は特に制限のないライセンスです。  
 ライセンスの本文はGitHubの右上のライセンスリンクから飛ぶか、下記へアクセスください。  
 https://github.com/YumaEdwards/BinaryScriptableObject/blob/develop/LICENSE
